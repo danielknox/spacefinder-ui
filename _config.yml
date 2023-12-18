@@ -1,5 +1,5 @@
 title: Space Finder - University of Leeds
-email: p.l.edwards@leeds.ac.uk
+email: d.knox@kent.ac.uk
 description: >-
   Spacefinder is an application designed for students
   to locate study spaces at the University of Leeds. It
@@ -8,9 +8,9 @@ description: >-
   map.
 environment: production
 baseurl: ""
-url: "https://spacefinder.leeds.ac.uk"
+url: "https://danielknox.github.io/spacefinder-ui"
 host: "localhost"
-google_analytics: "G-6LHKST5028"
+google_analytics: ""
 photo_dir: "/assets/photos/"
 lang: "en"
 dc:
