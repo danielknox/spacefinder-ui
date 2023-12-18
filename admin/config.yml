@@ -2,7 +2,7 @@ backend:
   name: 'github'
   repo: 'danielknox/spacefinder-ui'
   branch: 'main'
-  site_domain: 'musing-hoover-8f4523.netlify.app'
+  site_domain: 'stellar-cactus-3fcad5.netlify.app'
 media_folder: 'assets/photos'
 public_folder: '/assets/photos'
 collections:
