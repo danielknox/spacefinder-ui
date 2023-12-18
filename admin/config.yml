@@ -1,6 +1,6 @@
 backend:
   name: 'github'
-  repo: 'uol-library/spacefinder-ui'
+  repo: 'danielknox/spacefinder-ui'
   branch: 'main'
   site_domain: 'musing-hoover-8f4523.netlify.app'
 media_folder: 'assets/photos'
